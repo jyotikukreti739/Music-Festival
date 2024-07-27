@@ -1,0 +1,141 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.head1 {
+    background-color: rgb(246, 206, 76);
+    height: 25px;
+    width: 100vw;
+    padding-left: 90px;
+}
+.head1 icon {
+    height: 5px;
+    width: 5px;
+}
+.icon1 {
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+}
+.nav {
+    position: relative;
+    display: flex;
+    list-style: none;
+    gap: 40px;
+    padding-left: 30rem;
+    padding-top: 10px;
+}
+.btn {
+    border-radius: 30px;
+    border: none;
+    margin-top: -10px;
+    background-color: rgb(219, 118, 118);
+    font-size: 1rem;
+    padding: 10px 20px;
+}
+.content {
+    text-align: left;
+}
+.main {
+    text-align: center;
+    position: relative;
+    padding-top: 10rem;
+    font-size: 1.9rem;
+    color: rgb(226, 95, 43);
+}
+.btn1 {
+    border-radius: 30px;
+    padding: 10px 20px;
+    border: none;
+    box-sizing: border-box;
+    color: aliceblue;
+    background-color: rgb(242, 52, 52);
+    font-size: large;
+}
+.main1 {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10rem;
+    /* gap: 12rem; */
+    font-size: 1.5rem;
+    color: rgb(14, 15, 14);
+
+}
+.material {
+    display: flex;
+    gap: 5px;
+    
+}
+.icn {
+    height: 30px;
+    width: 30px;
+}
+.material1 {
+    position: relative;
+
+}
+.main2 {
+    background-color: rgb(131, 54, 54);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    
+}
+.content1 {
+    padding-top: 10rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-wrap: wrap;
+    color: rgb(254, 226, 226);
+    padding-left: 3rem;
+    padding-right: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.green {
+    height: 28rem;
+    width: 40rem;
+    padding-top: 8rem;
+    padding-right: 3rem;
+    display: flex;
+    position: relative;
+    
+}
+/* .box {
+    position: absolute;
+    
+} */
+/* .main3 {
+    
+} */
+.heading {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+.photos {
+    display: flex;
+    /* justify-content: space-evenly; */
+    gap: 2rem;
+ 
+}
+.photo-singer1 {
+    height: 55rem;
+    width: 40rem;
+    padding-left: 2rem;
+    padding-top: 2rem;
+}
+.photo-singer2 {
+    height: 400px;
+    width: 600px;
+    padding-left: 1rem;
+    padding-top: 2rem;
+}
+.photo-singer3 {
+    height: 400px;
+    width: 600px;
+    padding-top: 2rem;
+    padding-left: 1rem;
+
+}
